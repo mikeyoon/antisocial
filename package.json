@@ -1,0 +1,38 @@
+{
+    "name" : "AntiSocial",
+    "description" : "Social Networking for the less social",
+    "version" : "1.0.0",
+    "main" : "index.js",
+    "author" : {
+        "name" : "Mike Yoon",
+        "email" : "mike@yaki.org"
+    },
+    "keywords" :
+        [
+            ""
+        ],
+    "licenses" : {
+        "type" : "none"
+    },
+    "bugs" : {
+        "url" : "https://github.com/mikeyoon/antisocial/issues"
+    },
+    "dependencies" : {
+        "express" : "latest",
+        "jade" : "latest",
+        "connect" : "latest",
+        "mongoose" : "latest",
+        "knox" : "latest",
+        "node-markdown" : "latest",
+        "imagemagick" : "latest",
+        "connect-form" : "latest",
+        "dateformat" : "latest",
+        "nestableflow" : "latest",
+        "connect-redis" : "latest",
+        "zoneinfo": "latest",
+        "optimist": "latest",
+        "jadevu": "latest",
+        "vows": "latest",
+        "vows-bdd": "latest"
+    }
+}
